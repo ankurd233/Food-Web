@@ -1,0 +1,227 @@
+@media (max-width: 1199px) {
+    /* Custom CSS */
+
+    h1 {
+        font-size: 65px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 991px) {
+    /* Custom CSS */
+
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    /* navbar */
+
+    .header_wrapper .navbar-brand img {
+        max-width: 80px;
+    }
+
+    .header_wrapper .nav-link {
+
+        margin-top: 15px;
+        letter-spacing: 3px !important;
+    }
+
+    .header_wrapper .main-btn {
+        margin-top: 20px;
+    }
+
+
+
+    /* banner */
+
+
+
+
+    /* about */
+
+
+    .about_wrapper {
+        padding: 50px 0 70px 0;
+
+    }
+
+
+    .about_wrapper .card {
+
+        left: 0;
+        top: 15%;
+
+
+
+    }
+
+    /* Menu */
+
+    .menu_wrapper .row{
+        padding-top: 30px;
+    }
+
+    .menu_wrapper h3 span{
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        
+        
+    
+    }
+
+    .menu_wrapper .card{
+        opacity: 100%;
+        
+        
+        
+        }
+
+        /* offers */
+        .offers_wrapper h3{
+            font-size: 22px;
+            font-weight: 700;
+        }
+
+        /* Footer */
+
+        .footer_wrapper .footer-logo img{
+            margin-top: 50px;
+            position: relative;
+            transform: translate(70% , -20%);
+        }
+        .footer_wrapper .social-icon li{
+            margin-top: 50px;
+        }
+
+        .footer_wrapper .copyright-text p{
+            font-size: 18px;
+            letter-spacing: 5px;
+        }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 767px) {
+    /* Custom CSS */
+
+    h1 {
+        font-size: 40px !important;
+        line-height: 48px !important;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    /* navbar */
+
+    .header_wrapper .navbar-brand img {
+        max-width: 50px;
+    }
+
+    .header_wrapper .main-btn {
+        margin: 1rem 0;
+
+    }
+
+    .banner_wrapper img {
+        width: 90%;
+    }
+
+    .top-menu .col-lg-3 {
+
+        display: flex;
+        justify-content: center;
+
+
+    }
+
+    /* Banner */
+
+    .banner_wrapper {
+
+        padding-top: 55px;
+    }
+
+    .top-menu .card {
+        width: 90%;
+    }
+
+    /* About */
+
+    .about_wrapper .card {
+
+        left: 0;
+        top: 15%;
+
+
+
+    }
+
+    .about_wrapper {
+        padding: 30px 0 50px 0;
+
+    }
+
+    /* Menu */
+
+    .menu_wrapper h3 span{
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 20px;
+        
+        
+    
+    }
+
+    .menu_wrapper .card{
+        opacity: 100%;
+        
+        
+        
+        }
+
+          /* Footer */
+
+          .footer_wrapper .footer-logo img{
+            margin-top: 20px;
+            position: relative;
+            transform: translate(0% , 0%);
+        }
+        .footer_wrapper .social-icon li{
+            margin-top: 20px;
+        }
+
+        .footer_wrapper .copyright-text p{
+            font-size: 14px;
+            letter-spacing: 3px;
+        }
+
+
+}
